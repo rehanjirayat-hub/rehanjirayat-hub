@@ -120,7 +120,7 @@ I have practical experience working with a modern frontend and backend deploymen
 
 - [Portfolio](https://rehan-jirayat-portfolio.vercel.app/)
 - [GitHub](https://github.com/rehanjirayat-hub)
-- [LinkedIn](https://www.linkedin.com/in/rehan-jirayat-5683573a2/)
+- [LinkedIn](https://www.linkedin.com/in/mohammad-rehan-jirayat-5683573a2/)
 - [Email](mailto:rehanjirayat@gmail.com)
 
 Thank you for visiting my profile.
